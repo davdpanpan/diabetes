@@ -1,0 +1,9 @@
+gender: the individual's biological sex
+age: the individual's age in years
+hypertension: indicator variable for hypertension, a condition that causes blood pressure in the arteries (0 for no, 1 for yes)
+heart_disease: indicator variable for the presence of underlying heart disease (0 for no, 1 for yes)
+smoking_history: never, former, or current smoker
+bmi: the individuals' body mass index
+HbA1c_level: Hemoglobin A1c level, a measure of the individual's average blood sugar level over the past 2-3 months
+blood_glucose_level: the amount of glucose in the individual's bloodstream at a given time
+diabetes: indicator variable for diabetes (0 for no, 1 for yes)
